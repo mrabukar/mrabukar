@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Mern**
 
-- 📫 How to reach me **walaalpakar08@gmail.com**
+- 📫 How to reach me **abukarmacalin08@gmail.com**
 
 - ⚡ Fun fact **I Think i'm The Goat. lol**
 
