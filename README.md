@@ -3,7 +3,7 @@
 
 [![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cf06a29-04a0-4466-9f83-ab6b9658149f/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZjA2YTI5LTA0YTAtNDQ2Ni05ZjgzLWFiNmI5NjU4MTQ5ZlwvZGVtcGdpNy01MjBmOGQ1Zi02M2Q0LTQ0NTMtODgyMi1kYmMxNDlhZTI3ZjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TeuN0B5RgPUykYQkZXa8ArTYZ7GlxIpIVJUfQQMWCgM)](https://portfolio-bakarmokhtarali.vercel.app/)
 
-<h1 align="center">Hi 👋, I'm Bakar</h1>
+<h1 align="center">Hi 👋, I'm Abukar</h1>
 <h3 align="center">A dedicated web developer from somalia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/andreapollastri/andreapollastri/main/intro.gif">
@@ -12,13 +12,11 @@
 
 <p align="left"> <a href="https://twitter.com/abukar_m_ali" target="blank"><img src="https://img.shields.io/twitter/follow/abukar_m_ali?logo=twitter&style=for-the-badge" alt="abukar_m_ali" /></a> </p>
 
-- 🔭 I’m currently working on **mern-madrasa-app**
+- 🔭 I’m currently working with **LORANET TECHNOLOGIES**
 
-- 🌱 I’m currently learning **React Native**
+- 👨‍💻  portfolio is available at [mrabukar.com](https://mrabukar.vercel.app/)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-bakarmokhtarali.vercel.app/](https://abukar-mokhtar-ali.vercel.app//)
-
-- 💬 Ask me about **Mern**
+- 💬 Ask me about **Every thing, lol**
 
 - 📫 How to reach me **abukarmacalin08@gmail.com**
 
